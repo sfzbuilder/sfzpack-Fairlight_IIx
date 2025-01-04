@@ -1,4 +1,4 @@
-# Fairlight IIx for SFZBuilder
+# Fairlight IIx for SFZmaker
 SFZPack of the famous Fairlight IIx Library. [Based on this CDDA release.](http://www.pro-rec.com/samplecds.html)
 
 These are direct recordings from hardware by the same author of the library.
